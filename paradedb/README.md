@@ -96,3 +96,7 @@ WHERE n.nspname NOT IN ('pg_catalog', 'information_schema')
 AND p.prokind = 'f'  -- Only select normal functions (not aggregate or window functions)
 ORDER BY schema_name, procedure_name;" > ./procedures_paradedb.sql
 ```
+
+## References
+
+- [ParadeDB blog: A New Postgres Block Storage Layout for Full Text Search](https://www.paradedb.com/blog/block_storage_part_one)
