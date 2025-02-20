@@ -4,7 +4,8 @@
 
 - [CloudNativePG for HA on Kubernetes](./cloudnative_pg)
 - [Electric sync engine](./electric)
-- [Monitoring PostgreSQL for DevOps](./monitoring)
+- [Monitoring PostgreSQL for DevOps](./devops/monitoring/)
+- [pg_audit for detailed audit logging](./devops/pg_audit/)
 
 ## Search
 
@@ -16,4 +17,4 @@
 
 - [CloudNativePG for HA on Kubernetes](./cloudnative_pg)
 - [Scaling PostgreSQL](./scaling)
-    - [Horizontal Sharding example](./sharding)
+    - [Horizontal Sharding example](./scaling/simple_sharding/)
