@@ -18,3 +18,7 @@
 - [CloudNativePG for HA on Kubernetes](./cloudnative_pg)
 - [Scaling PostgreSQL](./scaling)
     - [Horizontal Sharding example](./scaling/simple_sharding/)
+
+## Sample projects
+
+- [Job description & resume search with pgvector, tsvector, and PostGIS](./sample/job_search_db.sql)
